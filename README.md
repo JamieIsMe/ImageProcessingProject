@@ -2,7 +2,7 @@
 
 
 
-1. Clean Up Input Image
+1. Clean Up Input Image - Mark
 2. Clean Up Storage Images - Jamie
 3. Try and Match Input Image to a Storage Image
 
